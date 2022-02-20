@@ -4,4 +4,6 @@ Este repositorio contiene pruebas con distintos hooks:
 
 useState, useEffect, useRef, useLayoutEffect, useMemo, useReducer, useContext.
 
++ tests corridos con enzyme
+
 
